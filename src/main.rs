@@ -1,5 +1,5 @@
 fn greet_world() {
-    let chinese = "我喜欢你";
+    let chinese = "你好世界";
     let southern_germany = "Grüß Gott";
     let english = "Hello, world!";
     let french = "Bonjour le monde";        
