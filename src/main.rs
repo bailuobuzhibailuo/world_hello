@@ -5,7 +5,7 @@ fn greet_world() {
     let french = "Bonjour le monde";        
     let spanish = "Hola, mundo";
     let italian = "Ciao, mondo";
-    let regions = [southern_germany, chinese, english];
+    let regions = [southern_germany, chinese, english,french, spanish, italian];
     for region in regions.iter() {
         println!("{}", &region);
     }
